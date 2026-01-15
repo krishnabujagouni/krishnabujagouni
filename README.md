@@ -17,7 +17,7 @@ AI Engineer | Agentic AI | RAG Systems | NVIDIA-Certified Associate (NCA-GENL)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+
 
 ---
 
