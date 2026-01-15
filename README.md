@@ -79,7 +79,72 @@
 [![](https://visitcount.itsvg.in/api?id=krishnabujagouni&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+## 🚀 Featured Projects
+
 ---
-[![](https://visitcount.itsvg.in/api?id=krishnabujagouni&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🔹 Multi-Model AI Council System
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-4B0082?style=for-the-badge)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent_AI-FF6F00?style=for-the-badge)
+![Token Optimization](https://img.shields.io/badge/Token_Optimization-008080?style=for-the-badge)
+
+🔗 **Repo:** https://github.com/krishnabujagouni/LLM_COUNCIL  
+
+- Multi-agent system synthesizing responses from multiple LLMs  
+- Parallel execution, critique, and consensus workflow  
+- Intelligent caching & prompt compression (**↓ 68% API cost**)  
+
+---
+
+### 🔹 RAG SDK with CrewAI
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_Database-1E90FF?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-20B2AA?style=for-the-badge)
+
+🔗 **Repo:** https://github.com/krishnabujagouni/SimpleRag  
+
+- Modular SDK for document ingestion & retrieval  
+- Supports PDFs, text, and images  
+- Multi-agent routing with autonomous pipeline execution  
+
+---
+
+### 🔹 Self-Correcting RAG AI System
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![Self-Correcting AI](https://img.shields.io/badge/Self--Correcting_AI-8A2BE2?style=for-the-badge)
+
+🔗 **Repo:** https://github.com/krishnabujagouni/self_correcting_rag  
+
+- Retriever–Guardrail–Generator–Evaluator agent architecture  
+- Automatic validation, reranking, and re-querying  
+- Reduced hallucinations by **50%**, improved reliability by **35%**  
+
+---
+
+### 🔹 Agentic AI Mall Navigator
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)
+![EasyOCR](https://img.shields.io/badge/EasyOCR-2E8B57?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge)
+![Graph AI](https://img.shields.io/badge/Graph_AI-800080?style=for-the-badge)
+![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-FF8C00?style=for-the-badge)
+
+🔗 **Repo:** https://github.com/krishnabujagouni/AI-Powered-Mall-Navigator-Crew  
+
+- OCR-based mall map understanding  
+- Graph-based pathfinding & reasoning  
+- Natural-language navigation guidance  
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
